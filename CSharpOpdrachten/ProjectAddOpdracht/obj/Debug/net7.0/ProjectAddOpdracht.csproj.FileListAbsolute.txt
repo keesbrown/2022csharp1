@@ -1,0 +1,15 @@
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net7.0\ProjectAddOpdracht.exe
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net7.0\ProjectAddOpdracht.deps.json
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net7.0\ProjectAddOpdracht.runtimeconfig.json
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net7.0\ProjectAddOpdracht.dll
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\bin\Debug\net7.0\ProjectAddOpdracht.pdb
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.csproj.AssemblyReference.cache
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.AssemblyInfoInputs.cache
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.AssemblyInfo.cs
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.dll
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\refint\ProjectAddOpdracht.dll
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.pdb
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ProjectAddOpdracht.genruntimeconfig.cache
+C:\Users\Kees Brown\OneDrive - Dunamare Onderwijsgroep\Documenten\Media College\Bewijzenmap\periode1.3\Flex\CSharpOpdrachten\ProjectAddOpdracht\obj\Debug\net7.0\ref\ProjectAddOpdracht.dll
